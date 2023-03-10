@@ -9,7 +9,7 @@ For more information on the sbt-dotty plugin, see the
 
 ### Debbug VSC
 
-install Metals plugin, then add your project to metals, create this lauch json file
+install Metals plugin, then add your project to metals, create this launch json file
 
 {
 
