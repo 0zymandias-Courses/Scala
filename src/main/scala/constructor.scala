@@ -1,5 +1,4 @@
-
-
+package com.spark.main
 // Primary constructor
 class classConstructor( name: String, role: String) {
     
@@ -31,7 +30,6 @@ class classConstructor( name: String, role: String) {
 object Constructor
 {
     def main(args: Array[String]) : Unit = {
-         
         // Creating object of GFG class
         val objInst1 = new classConstructor("Warlock", "Architech", 40000.50);
         objInst1.display();
