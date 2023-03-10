@@ -1,3 +1,5 @@
+package com.spark.main
+
 trait bmw{
     val make: String = "BMW"
     val model: String = "X7"

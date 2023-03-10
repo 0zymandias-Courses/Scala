@@ -1,3 +1,4 @@
+package com.spark.main
 
 trait BMW{
 

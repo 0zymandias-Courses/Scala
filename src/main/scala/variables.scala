@@ -1,3 +1,5 @@
+package com.spark.main
+
 object variables {
   def main(args: Array[String]) : Unit = {
     println("Variables mutability in Scala !!!")

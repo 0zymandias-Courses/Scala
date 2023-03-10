@@ -1,4 +1,4 @@
-
+package com.spark.main
 
 object helloWorld {
   def main(args: Array[String]) : Unit = {
